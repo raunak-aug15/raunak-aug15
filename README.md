@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raunak Rai
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on app appdevelopment
+- 👀 I’m interested in Full stack web development
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @raunak_aug15 on instagram and twitter
 
 <!---
